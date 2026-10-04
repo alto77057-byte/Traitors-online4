@@ -1,0 +1,6 @@
+{
+  "name": "ahads-traitors-game",
+  "private": true,
+  "type": "module",
+  "dependencies": { "@netlify/blobs": "*" }
+}
